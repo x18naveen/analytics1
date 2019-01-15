@@ -103,7 +103,7 @@ set.seed(1234)
 sort(x6)
 sort(x6[-c(1,2)])
 sort(x6, decreasing=T)
-x6
+x6 #test
 rev(x6)
 
 seq(-3, 10, by=.2)
