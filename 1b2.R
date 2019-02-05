@@ -51,7 +51,7 @@ round(x)
 floor(x)
 ceiling(x)
 
- #access elements
+#access elements
 ?seq
 (x6 = seq(0,100,by=3))
 seq(0,100,3)
@@ -103,7 +103,7 @@ set.seed(1234)
 sort(x6)
 sort(x6[-c(1,2)])
 sort(x6, decreasing=T)
-x6 #test
+x6
 rev(x6)
 
 seq(-3, 10, by=.2)
